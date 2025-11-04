@@ -1,7 +1,5 @@
 # Superclaims-Backend-Developer-Assignment
 
-# Superclaims-Backend-Developer-Assignment
-
 Overview
 
 The Claim Document Processor is an AI-powered FastAPI backend that automates insurance claim document handling.
